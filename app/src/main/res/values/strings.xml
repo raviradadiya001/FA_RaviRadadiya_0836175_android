@@ -1,5 +1,17 @@
 <resources>
     <string name="app_name">FA_RaviRadadiya_0836175_android</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1">Add Places</string>
+    <string name="tab_text_2">Places List</string>
+    <string name="tab_text_3">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite_place_list">Favourite place List</string>
+    <string name="enter_street_address">Enter Street Address</string>
+    <string name="enter_place_name">Enter Place Name</string>
+    <string name="city_and_street_name">City and Street Name</string>
+    <string name="country_name">Country Name</string>
+    <string name="save_location">Save Location</string>
+    <string name="place_name">Place Name</string>
+    <string name="city_and_state_name">City and State Name</string>
+    <string name="countryname">country_name</string>
 </resources>
